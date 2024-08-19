@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\USMP\\Programacion\\Tarea2\\Tarea2.csproj": {}
+    "d:\\USMP\\Programacion\\Tarea2\\Tarea2.csproj": {}
   },
   "projects": {
-    "D:\\USMP\\Programacion\\Tarea2\\Tarea2.csproj": {
+    "d:\\USMP\\Programacion\\Tarea2\\Tarea2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\USMP\\Programacion\\Tarea2\\Tarea2.csproj",
+        "projectUniqueName": "d:\\USMP\\Programacion\\Tarea2\\Tarea2.csproj",
         "projectName": "Tarea2",
-        "projectPath": "D:\\USMP\\Programacion\\Tarea2\\Tarea2.csproj",
+        "projectPath": "d:\\USMP\\Programacion\\Tarea2\\Tarea2.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "D:\\USMP\\Programacion\\Tarea2\\obj\\",
+        "outputPath": "d:\\USMP\\Programacion\\Tarea2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
